@@ -1,2 +1,2 @@
-# steganography-
+# steganography
 Various scripts related to steganography.
